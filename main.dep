@@ -1,0 +1,9 @@
+main.o: main.c C:/psxdev/nolibgs_hello_worlds/psyq/include/sys/types.h \
+ C:/psxdev/nolibgs_hello_worlds/psyq/include/stdio.h \
+ c:\users\1998guys\documents\mips\lib\gcc\mipsel-none-elf\10.3.0\include\stdint.h \
+ c:\users\1998guys\documents\mips\lib\gcc\mipsel-none-elf\10.3.0\include\stdint-gcc.h \
+ c:\users\1998guys\documents\mips\lib\gcc\mipsel-none-elf\10.3.0\include\stdbool.h \
+ C:/psxdev/nolibgs_hello_worlds/psyq/include/libgte.h \
+ C:/psxdev/nolibgs_hello_worlds/psyq/include/libetc.h \
+ C:/psxdev/nolibgs_hello_worlds/psyq/include/libgpu.h \
+ C:/psxdev/nolibgs_hello_worlds/psyq/include/libspu.h kite_base.c
